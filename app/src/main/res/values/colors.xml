@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81b60</color>
+    <color name="kirmizi1">#d9372b</color>
+    <color name="turuncu1">#f27222</color>
+
+    <color name="beyaz">#ffffff</color>
+    <color name="beyaz2">#F2F2F2</color>
+    <color name="primary_material_light">#333</color>
+    <color name="acikmavi">#448ff2</color>
+    <color name="aciksiyah">#708972</color>
+    <color name="siyah">#000</color>
+    <color name="gri">#cccccc</color>
+    <color name="sari">#fff765</color>
+
+    <color name="instacropper_cropper_background">@android:color/white</color> <!-- Background color of InstaCropperView in the activity -->
+    <color name="instacropper_crop_color">@android:color/black</color> <!-- Color of crop action in toolbar -->
+
+</resources>

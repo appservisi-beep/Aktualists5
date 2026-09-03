@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aktüel Ürünler</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Create By Appservisi</string>
+    <string name="nav_header_subtitle">appservisi@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Duyurular</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="reklamid">ca-app-pub-6350967955511065~8188355672</string>
+    <string name="banner">ca-app-pub-6350967955511065/1330592845</string>
+    <string name="gecis">ca-app-pub-6350967955511065/2200110945</string>
+    <string name="videoreklam">ca-app-pub-6350967955511065/2555334163</string>
+
+    <string name="yreklamid">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ybanner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ygecis">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="yvideoreklam">ca-app-pub-3940256099942544/5224354917</string>
+
+
+</resources>

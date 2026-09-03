@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "867655627287",
+    "firebase_url": "https://aktuelist-9313e.firebaseio.com",
+    "project_id": "aktuelist-9313e",
+    "storage_bucket": "aktuelist-9313e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867655627287:android:c7c9e3aea1958635",
+        "android_client_info": {
+          "package_name": "com.appservisi.aktalist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867655627287-jd4ejddt3vj7tdaiq0l13oedhup8v2un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqs9RVwOFWEmIPk0y0-ZWRLg0ncKj00hw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
